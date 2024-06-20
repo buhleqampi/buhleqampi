@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on ...various projects with other developers
 - 🤔 I’m looking for help with ...finding job opportunities in Software Development roles
 - 💬 Ask me about ...anything code related
-- 📫 How to reach me: ...follw me on GitHub
+- 📫 How to reach me: ...follow me on GitHub and LinkedIn
 - ⚡ Fun fact: ...I am inlove with programming
