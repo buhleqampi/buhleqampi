@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... a few personal projects
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... almost everything
 - 👯 I’m looking to collaborate on ...various projects with other developers
 - 🤔 I’m looking for help with ...finding a social life outside programming
 - 💬 Ask me about ...anything code related
