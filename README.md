@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... a few personal projects
-- 🌱 I’m currently learning ... Java and Python
+- 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ...Open Source and freelance projects
 - 🤔 I’m looking for help with ...nothing, I am basically a WIZ
 - 💬 Ask me about ...anything computer science/ programming related
