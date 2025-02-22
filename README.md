@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... everything
+- 🔭 I’m currently working on ... everythin
 - 🌱 I’m currently learning ... everything
 - 👯 I’m looking to collaborate on ...Open Source and freelance projects
 - 🤔 I’m looking for help with ...nothing, I am basically a WIZ
